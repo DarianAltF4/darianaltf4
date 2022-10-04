@@ -6,8 +6,6 @@ Software Engineer
 
 I've been enjoying the process of coding for 3 years now. I primary use the MERN stack, but I am always interested in learning new tech. I love building projects where I will learn a new skill along the way. LOFI, the sound of my keyboard, and water is what fuels me to keep pushing out code. 😎
 
-* 🌍  I'm based in the Michigan, USA
-
 ### Skills
 
 
