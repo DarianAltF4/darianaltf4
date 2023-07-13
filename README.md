@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="https://google.com" target="_blank">
+  <a onclick="window.open('https://google.com', '_blank'); return false;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
     <img width="12" />
